@@ -1,0 +1,2 @@
+# RFIDtag_POS
+RFIDタグを使用したPOSレジ連携プロジェクト
